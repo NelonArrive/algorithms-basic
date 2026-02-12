@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers;
+package dev.nelon.algorithms.twopointers.fast_slow;
 
 import java.util.Arrays;
 

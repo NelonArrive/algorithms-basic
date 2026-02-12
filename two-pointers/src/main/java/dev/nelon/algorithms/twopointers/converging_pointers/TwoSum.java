@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers;
+package dev.nelon.algorithms.twopointers.converging_pointers;
 
 public class TwoSum {
 	public static void main(String[] args) {

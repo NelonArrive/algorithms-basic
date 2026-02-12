@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers;
+package dev.nelon.algorithms.twopointers.converging_pointers;
 
 public class Palindrome {
 	public static void main(String[] args) {
