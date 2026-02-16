@@ -4,7 +4,7 @@
     <output-test url="file://$MODULE_DIR$/../../two-pointers/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../two-pointers/src/test" />
-    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="temurin-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="two-pointers.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />

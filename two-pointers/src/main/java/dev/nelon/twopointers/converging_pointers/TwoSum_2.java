@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers.converging_pointers;
+package dev.nelon.twopointers.converging_pointers;
 
 import java.util.Arrays;
 

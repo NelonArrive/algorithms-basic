@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithms-basic.iml" filepath="$PROJECT_DIR$/algorithms-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliding-window.iml" filepath="$PROJECT_DIR$/sliding-window.iml" />
       <module fileurl="file://$PROJECT_DIR$/two-pointers.iml" filepath="$PROJECT_DIR$/two-pointers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-pointers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/two-pointers.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-pointers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/two-pointers.test.iml" />

@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers.fast_slow;
+package dev.nelon.twopointers.fast_slow;
 
 public class RemoveDuplicatesFromSortedArray {
 	public static void main(String[] args) {

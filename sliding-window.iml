@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="sliding-window" external.linked.project.path="$MODULE_DIR$/sliding-window" external.root.project.path="$MODULE_DIR$/sliding-window" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/sliding-window">
+      <excludeFolder url="file://$MODULE_DIR$/sliding-window/.gradle" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

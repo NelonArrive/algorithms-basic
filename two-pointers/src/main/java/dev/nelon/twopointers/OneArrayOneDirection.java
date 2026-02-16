@@ -1,4 +1,4 @@
-package dev.nelon.algorithms.twopointers;
+package dev.nelon.twopointers;
 
 public class OneArrayOneDirection {
 	public static void main(String[] args) {
