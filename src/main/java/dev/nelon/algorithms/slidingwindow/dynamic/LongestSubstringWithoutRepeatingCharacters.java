@@ -8,12 +8,11 @@ public class LongestSubstringWithoutRepeatingCharacters {
 	}
 
 	public static int lengthOfLongestSubstring(String s) {
-		int n = s.length();
 		HashSet<Character> seen = new HashSet<>();
 		int maxLength = 0;
 		int left = 0;
 
-		for (int right = 0; right < n; right++) {
+		for (int right = 0; right < s.length(); right++) {
 			while (seen.contains(s.charAt(right))) {
 				seen.remove(s.charAt(left));
 				left++;
@@ -23,6 +22,6 @@ public class LongestSubstringWithoutRepeatingCharacters {
 		}
 		return maxLength;
 	}
-
-
+	//	Time Complexity = O(n)
+	//	Space Complexity = O(k)
 }
